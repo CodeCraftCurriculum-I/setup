@@ -1,9 +1,12 @@
 # Setup your work enviorment
 
-## 1. Install Visual Studio Code
-1. Download the latest version of Visual Studio Code from [here](https://code.visualstudio.com/Download)
+## 1. Install VSCodium
+
+**Note that we are using VSCodium and not VS Code.**
+
+1. Get the latest version of VSCodium [here](https://vscodium.com/)
 2. Install the downloaded file
-3. Open Visual Studio Code
+3. Open VSCodium
 
 ## 2. Install Git (Only if working on Windows)
 1. Download Git for windows from [here](https://gitforwindows.org/)
@@ -26,6 +29,8 @@ node -v
 2. Sign up for a new account
 3. Verify your email address
 
+It can be adventagus to install the github cli tools, but that is optional. 
+
 ## 5.Add plugins to VS.Code
 1. Open Visual Studio Code
 2. Click on the Extensions icon in the left sidebar
@@ -33,16 +38,14 @@ node -v
     - ESLint
     - Prettier
     - Live Server
-    - Bracket Pair Colorizer
     - Code Spell Checker
-    - GitLens
     - Dracula Theme Official (Optional)
   
 ## 6. Submit
 1. **In canvas submit the URL to your Github profile.**
   
-## Extra: Learn hotkeys for Vs.Code    
-1. Open Visual Studio Code
+## Extra: Learn hotkeys for Codium   
+1. Open Codium
 2. Press `Ctrl + Shift + P` to open the Command Palette
 3. Press `Ctrl + Shift + E` to open the Explorer
 4. Press `Ctrl + Shift + F` to open the Search
