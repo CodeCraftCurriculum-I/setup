@@ -32,7 +32,7 @@ node -v
 It can be adventagus to install the github cli tools, but that is optional. 
 
 ## 5.Add plugins to Codium
-1. Open Visual Studio Code
+1. Open Codium
 2. Click on the Extensions icon in the left sidebar
 3. Add:
     - ESLint
